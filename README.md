@@ -11,10 +11,10 @@ This repository presents the outcomes of the study:
 
 ## Overview
 FB-SGASNet is a progressive **semi-supervised generative adversarial segmentation network** designed for accurate and robust segmentation of the **Corpus Callosum and Cavum Septum Pellucidum Complex (CCSP)** in **fetal brain mid-sagittal ultrasound (FBMS)** images, addressing challenges from **limited labeled data** and **high variability** across gestational ages.
-**Progressive training**
+- **Progressive training**
 ![Framework](media/pipeline.png)
-**Network**
-![Framework](media/network.jpg)
+- **Network**
+![Framework](media/network.png)
 
 Key innovations:
 - **Target Segmentation Module (TSM)** + **Data Expansion Module (DEM)** for joint learning.
